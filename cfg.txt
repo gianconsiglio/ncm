@@ -1,0 +1,5 @@
+127.0.0.1
+5432
+tete
+postgres
+j2mhw82dyu1kn5g4
